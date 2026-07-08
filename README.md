@@ -1,11 +1,13 @@
-# Excel-Sales-Dashbaord
-My first Data Analytics portfolio project. An Excel-based Sales Dashboard built to practice data analysis, data visualization, KPI reporting, and business insights using Pivot Tables and charts.
+# Sales-Dashbaord-Analysis | Excel & PowerBI
+My first Data Analytics portfolio project. A sales performance dashboard built using Excel and Power BI to practice data analysis, visualization, KPI reporting, and business intelligence.
 
 ## Project Overview
 
-This project presents an interactive sales dashboard built in Microsoft Excel using sales transaction data. The objective is to analyze sales trends, product performance, customer behavior, and operational metrics to generate actionable business insights.
+This project is my first hands-on Data Analytics portfolio project. Using a sales transaction dataset, I analyzed business performance and developed interactive dashboards in both Microsoft Excel and Power BI.
 
-The dashboard was created as part of my learning journey in Data Analytics and demonstrates the use of Excel for data cleaning, analysis, and visualization.
+The project focuses on sales trends, product performance, customer behavior, order status, shipping efficiency, and customer feedback. Through dashboard creation and KPI reporting, the goal is to transform raw data into meaningful business insights.
+
+As I begin my journey in Data Analytics, this project represents my first step in applying analytical concepts to real-world business data while developing practical dashboarding and business intelligence skills.
 
 ## Dataset Information
 
@@ -50,12 +52,20 @@ The main objectives of this dashboard are:
 - Track customer satisfaction through feedback analysis.
 - Develop practical Excel dashboarding skills.
 
-## Key Insights
+## Tools Used
 
-- Mountain Bikes generated the highest revenue.
-- Most customers provided positive feedback.
-- Standard Shipping was the most commonly used shipping method.
-- Certain products require inventory replenishment due to low stock levels.
+### Microsoft Excel
+
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- KPI Reporting
+
+### Power BI
+
+- Data Modeling
+- Data Visualization
+- Interactive Dashboards
 
 ## Learning Outcomes
 
