@@ -50,6 +50,13 @@ The main objectives of this dashboard are:
 - Track customer satisfaction through feedback analysis.
 - Develop practical Excel dashboarding skills.
 
+## Key Insights
+
+- Mountain Bikes generated the highest revenue.
+- Most customers provided positive feedback.
+- Standard Shipping was the most commonly used shipping method.
+- Certain products require inventory replenishment due to low stock levels.
+
 ## Learning Outcomes
 
 Through this project, I learned:
